@@ -4,7 +4,7 @@
     <Filter Include="main">
       <UniqueIdentifier>{28915b89-e58b-4d76-bf19-857e843bbd2a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Stack">
+    <Filter Include="DynamicStack">
       <UniqueIdentifier>{d4b9939c-15e2-4b5a-b2a1-7237d6e3ffd3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -12,13 +12,13 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="Stack.cpp">
-      <Filter>Stack</Filter>
+    <ClCompile Include="DynamicStack.cpp">
+      <Filter>DynamicStack</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stack.h">
-      <Filter>Stack</Filter>
+    <ClInclude Include="DynamicStack.h">
+      <Filter>DynamicStack</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
